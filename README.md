@@ -1,5 +1,4 @@
 # Welcome to my profile  :D
-- [Join to my server :D!](https://discord.gg/hxC5vDbjTW)
 - Web developer 
 - [Agregame en discord](https://discord.com/channels/@me/676888464351821867)
 <br>
