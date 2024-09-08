@@ -29,7 +29,7 @@
 </table> 
 
 ## Proyectos
-Esta es la lista de proyectos con los que yo estoy trabajando actualmente y los que ya estan completados conjunto a los que estan en desarrollo de hacer
+Esta es la lista de proyectos con los que yo estoy trabajando actualmente y los que ya estan completados conjunto a los que estan en desarrollo
 <table>
   <tr>
     <td>IE GDC (Sistema Gestion de calificaciones)</td>
