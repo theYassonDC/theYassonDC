@@ -14,7 +14,7 @@
 </div>  
 <br>
 <p align="center">
-    Soy un desarrollador web con experiencia con las herramientas web modernas
+    Soy un desarrollador web 
 </p>
 
 <table align="center">
