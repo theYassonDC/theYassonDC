@@ -2,31 +2,31 @@
 <div align="left">
 <a href="https://github.com/Yasson-Projects" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+    
 <a href="https://twitter.com/ljuanda_castro" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/juan-david-castro-y" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://instagram.com/ljuanda_castro" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
 <br>
 <p align="center">
     Soy un desarrollador web 
 </p>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=theYassonDC&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYassonDC&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table> 
+    
+<div align="center">
+   
+   ![yasson](https://github-readme-stats.vercel.app/api?username=theYassonDC&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   
+</div>
 
 ## Proyectos
 Esta es la lista de proyectos con los que yo estoy trabajando actualmente y los que ya estan completados conjunto a los que estan en desarrollo
